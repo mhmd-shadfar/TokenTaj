@@ -1,4 +1,6 @@
-/models
-/__pycache__
+__pycache__/
 /dataset
 test.py
+models
+dev.ipynb
+*.pytest_cache
