@@ -1,6 +1,6 @@
 __pycache__/
 /dataset
+*.pytest_cache
 test.py
 models
 dev.ipynb
-*.pytest_cache
